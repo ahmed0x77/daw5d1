@@ -1,4 +1,4 @@
 
 print('wooooooooow')
-exit()
+ytjyt
 print('hoooo')
